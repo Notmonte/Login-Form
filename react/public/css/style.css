@@ -1,0 +1,25 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0A0A0A;
+}
+
+
+.h1-text, .access-text, .form-h2, .form-text {
+    color: #EBEBEB;
+}
+
+#formMain {
+    border-top: 2px solid white;
+}
+
+#usersMain {
+    border-top: 2px solid white;
+    background-color: #C2C2C2;
+}
+
+.sign-btn {
+    margin-top: 31px;
+}
